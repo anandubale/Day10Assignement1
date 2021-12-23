@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\bin\Debug\net5.0\Day10EmployeeWageUc7-uc14.exe
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\bin\Debug\net5.0\Day10EmployeeWageUc7-uc14.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\bin\Debug\net5.0\Day10EmployeeWageUc7-uc14.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\bin\Debug\net5.0\Day10EmployeeWageUc7-uc14.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\bin\Debug\net5.0\Day10EmployeeWageUc7-uc14.dll
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\bin\Debug\net5.0\ref\Day10EmployeeWageUc7-uc14.dll
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\bin\Debug\net5.0\Day10EmployeeWageUc7-uc14.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.dll
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\ref\Day10EmployeeWageUc7-uc14.dll
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day10Assigment\Day10EmployeeWageUc7-uc14\Day10EmployeeWageUc7-uc14\obj\Debug\net5.0\Day10EmployeeWageUc7-uc14.genruntimeconfig.cache
